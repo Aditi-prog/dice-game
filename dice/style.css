@@ -1,0 +1,43 @@
+body {
+  background: linear-gradient(to
+  right,blue,red);
+
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+   
+
+
+  h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+    color: #4ECCA3;
+  }
+  .player p {
+    margin: 0px 35px;
+    text-align: center;
+    display:inline-block;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:  2rem;
+    color: #4ECCA3;
+
+  }
+  img {
+    width: 30%;
+  }
+  footer {
+    margin-top:%;
+    text-align: center;
+    font-weight: 100;
+    color: #EEEEEE;
+
+  }
+  .result {
+    text-align: center;
+    font-weight: 100;
+  }
